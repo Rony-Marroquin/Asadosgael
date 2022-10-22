@@ -1,8 +1,8 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.Gasados" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    <style name="Theme.Gasados" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">#2196f3</item>
+        <item name="colorPrimary">#FF9800</item>
         <item name="colorPrimaryVariant">#448AFF</item>
         <item name="colorOnPrimary">#2979FF</item>
         <!-- Secondary brand color. -->
