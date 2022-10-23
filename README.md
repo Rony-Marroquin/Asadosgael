@@ -4,7 +4,8 @@
 https://www.figma.com/file/w0scvusCcqfIP1vjNnWiOh/dsm?node-id=0%3A1
 
 ### Nuestro icono
-[![1024.png](https://i.postimg.cc/Gp7BhWPW/1024.png)](https://postimg.cc/xkmj6F45)
+
+<[![1024.png](https://i.postimg.cc/Gp7BhWPW/1024.png)](https://postimg.cc/xkmj6F45)width="50" height="50" />
 
 ### Integrantes de equipo
 
