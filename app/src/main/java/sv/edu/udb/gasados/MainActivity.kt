@@ -24,12 +24,12 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-       // Toast.makeText(this,"Bienvenido a Asados gael",Toast.LENGTH_LONG).show()
+        Toast.makeText(this,"Bienvenido a Asados gael",Toast.LENGTH_LONG).show()
 
 
 
 
-     /*  val edt1 = findViewById<EditText>(R.id.edt1)
+        val edt1 = findViewById<EditText>(R.id.edt1)
         val edt2 = findViewById<EditText>(R.id.edt2)
         val edt3 = findViewById<EditText>(R.id.edt3)
         val edt4 = findViewById<EditText>(R.id.edt4)
@@ -59,7 +59,7 @@ class MainActivity : AppCompatActivity() {
         val cancelar8 = findViewById<Button>(R.id.cancelar8)
         val cancelar9 = findViewById<Button>(R.id.cancelar9)
         val cancelar10 = findViewById<Button>(R.id.cancelar10)
-        */
+        
 
 
 
@@ -85,15 +85,15 @@ class MainActivity : AppCompatActivity() {
         setupActionBarWithNavController(navController, appBarConfiguration)
         navView.setupWithNavController(navController)
 
-       /* agregar1.setOnClickListener {
+           agregar1.setOnClickListener {
             val edt1 = findViewById<EditText>(R.id.edt1)
             val cantidad = edt1.text.toString().toInt()
             val total = cantidad * 5.80
 
 
-        }*/
+        }
 
-     /*   fun starTimer() {
+           fun starTimer() {
             object : CountDownTimer(2000, 1000) {
                 override fun onTick(p0: Long) {
                     TODO("Not yet implemented")
@@ -108,7 +108,7 @@ class MainActivity : AppCompatActivity() {
 
                     startActivity(intent)
                 }
-                */
+                
 
             }
 
