@@ -6,7 +6,8 @@
 
 ### Integrantes de equipo
 
-Rony Stanley Marroquin Erroa me141299
+Rony Stanley Marroquin Erroa me141299 
+<BR>
 Edwin Rene Roque Bonilla rb181608
 
 ### Numero de lab
