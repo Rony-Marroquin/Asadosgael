@@ -10,7 +10,7 @@
         <TextView
             android:layout_column="0"
             android:padding="3dip"
-            android:text="Producto"
+            android:text="Menu"
             android:textColor="@android:color/white" />
 
         <TextView
@@ -25,13 +25,13 @@
         <TextView
             android:layout_column="0"
             android:padding="3dip"
-            android:text="Jabón de manos x 1" />
+            android:text="" />
 
         <TextView
             android:layout_column="2"
             android:gravity="left"
             android:padding="3dip"
-            android:text="$2" />
+            android:text="" />
     </TableRow>
 
     <TableRow>
@@ -39,13 +39,13 @@
         <TextView
             android:layout_column="0"
             android:padding="3dip"
-            android:text="Shampoo Monster x 1" />
+            android:text="" />
 
         <TextView
             android:layout_column="2"
             android:gravity="left"
             android:padding="3dip"
-            android:text="$10" />
+            android:text="" />
     </TableRow>
 
     <TableRow
@@ -58,7 +58,7 @@
             android:layout_height="wrap_content"
             android:layout_column="0"
             android:padding="3dip"
-            android:text="Pastas Duria x 2" />
+            android:text="" />
 
         <TextView
             android:id="@+id/textView2"
@@ -67,7 +67,7 @@
             android:layout_column="2"
             android:gravity="left"
             android:padding="3dip"
-            android:text="$18" />
+            android:text="" />
     </TableRow>
 
     <TableRow
@@ -80,7 +80,7 @@
             android:layout_height="wrap_content"
             android:layout_column="0"
             android:padding="3dip"
-            android:text="Detergente Limpiadin x 1" />
+            android:text="" />
 
         <TextView
             android:id="@+id/textView4"
@@ -89,7 +89,7 @@
             android:layout_column="2"
             android:gravity="left"
             android:padding="3dip"
-            android:text="$13,4" />
+            android:text="" />
     </TableRow>
 
     <View
@@ -102,7 +102,7 @@
             android:layout_column="1"
             android:padding="3dip"
             android:text="Total"
-            android:textColor="#128675" />
+            android:textColor="#FF5722" />
 
         <TextView
             android:id="@+id/textView7"
@@ -112,7 +112,7 @@
             android:layout_gravity="left"
             android:gravity="right"
             android:padding="3dip"
-            android:text="$43,4" />
+            android:text="" />
     </TableRow>
 
     <TableRow
