@@ -3,6 +3,7 @@
 ### Muckup
 
 ### Nuestro icono
+[![1024.png](https://i.postimg.cc/Gp7BhWPW/1024.png)](https://postimg.cc/xkmj6F45)
 
 ### Integrantes de equipo
 
